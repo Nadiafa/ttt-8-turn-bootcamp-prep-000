@@ -1,2 +1,4 @@
 #!/usr/bin/env ruby
 require_absolute "../lib/turn"
+
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
