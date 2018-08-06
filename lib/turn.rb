@@ -6,12 +6,12 @@ def turn(board)
   
   input_to_index(board)
   
-  if valid_move?(board, index)
-    move(board, index)
-    display_board(board)
-  else
-    turn(board)
-  end
+  # if valid_move?(board, index)
+  #   move(board, index)
+  #   display_board(board)
+  # else
+  #   turn(board)
+  # end
   
   
 end
