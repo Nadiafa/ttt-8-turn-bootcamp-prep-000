@@ -1,7 +1,6 @@
-def turn(input)
+def turn(board)
   puts "Please enter 1-9:"
-  while input >= 0 && input <= 9 
-    gets.input
+  board = gets.strip
   end
 end
 
