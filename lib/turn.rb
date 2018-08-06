@@ -1,5 +1,6 @@
 def turn(input)
   puts "Please enter 1-9:"
+  position = input.gets
 end
 
 
