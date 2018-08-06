@@ -13,6 +13,7 @@ def turn(board)
   #   turn(board)
   # end
   
+  valid_move?(board, index)
   
 end
 
