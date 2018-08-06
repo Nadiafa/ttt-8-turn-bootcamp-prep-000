@@ -1,6 +1,6 @@
 def turn(input)
   puts "Please enter 1-9:"
-  while input<1 && input>9 
+  if input<1 && input>9 
     turn(input);
   end
 end
