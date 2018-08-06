@@ -1,6 +1,6 @@
 def turn(input)
   puts "Please enter 1-9:"
-  position_played = gets.input
+  gets.input
 end
 
 
