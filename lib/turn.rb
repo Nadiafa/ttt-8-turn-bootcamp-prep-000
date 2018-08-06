@@ -1,4 +1,4 @@
-def turn
+def turn(input)
   print "Please enter 1-9:"
 end
 
