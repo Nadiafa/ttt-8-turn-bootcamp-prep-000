@@ -4,9 +4,9 @@ def turn(board)
   
   board = gets.strip
   
-  input_to_index(board)
+  index = input_to_index(board)
   
-  # if valid_move?(board, index)
+  if valid_move?(board, index)
   #   move(board, index)
   #   display_board(board)
   # else
